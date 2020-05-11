@@ -32,6 +32,9 @@ URIでユーザが指定
 6. JavaScript インタープリタ
 7. データ ストレージ
 
+
+TODO: スクリプトとスタイル シートの処理順序から続き読む
+
 ## 用語
 ### DOM
 Document Object Model
